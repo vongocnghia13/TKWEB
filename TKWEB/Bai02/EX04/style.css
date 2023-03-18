@@ -1,0 +1,72 @@
+body{
+  background-white;
+}
+
+
+
+/* Header **/
+header{
+  text-align: right
+  color:cornsilk;
+ background-color: #369999;
+ padding: 20px 70px 20px 10px;
+ margin: -8px;
+ border-bottom:3px solid orange;
+ border-color:
+ margin-right:auto;
+
+}
+
+  
+  
+
+
+
+header a{
+  
+
+}
+
+header li{
+ 
+
+}
+
+header #branding{
+  
+
+}
+
+header #branding h1{
+  
+
+}
+
+header nav{
+ 
+
+}
+
+header .highlight, header .current a{
+  
+
+}
+
+header a:hover{
+  
+
+}
+
+
+footer{
+                  padding: 50px;
+                  text-align:center;
+                  background-color:yellow;
+                   
+ margin: -8px;
+}
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+    
+  }
+

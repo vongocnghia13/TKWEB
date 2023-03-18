@@ -1,0 +1,26 @@
+body{
+  background-color:green;
+
+}
+
+
+/* Header **/
+header{
+   padding:20px 70px 20px 10px;
+   margin:-8px;
+   background-color: #666699;
+   color: #cc0000;
+   border-bottom-style: inset;
+   border-color:#cc0000;
+ 
+
+}
+
+footer{
+    
+                   padding:20px 70px 20px 10px;
+                   margin:-7px;    
+                  background-color:#CC3300;
+                  color: #6bf5f2;
+                  text-align:center;
+}
