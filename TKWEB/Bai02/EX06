@@ -66,7 +66,7 @@ header a:hover{
 /* Showcase */
 #showcase{
   
-  background-image: url("http://trannguyennn.github.io/Ma nguon cac bai tap/Ma nguon cac bai tap/EX06/img/showcase.jpg");
+  background-image:url("https://vongocnghia13.github.io/Ma%20nguon%20cac%20bai%20tap%20(1)/Ma%20nguon%20cac%20bai%20tap/EX06/img/showcase.jpg");
   color:#ffffff;
   padding-top:100px;
   min-height:300px;
@@ -92,3 +92,5 @@ footer{
     background-color:#e8491d;
     text-align: center;
   }
+
+
