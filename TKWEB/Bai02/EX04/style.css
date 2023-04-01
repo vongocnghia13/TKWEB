@@ -24,7 +24,7 @@ header a{
 }
 
 header li{
-  float:right;
+  float:left;
   display: inline-block;
   padding: 15px;
 }
