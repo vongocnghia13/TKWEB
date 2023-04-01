@@ -1,52 +1,73 @@
-{
-    font-family: sans-serif;
-}
 body{
-  font-size: 15px;
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
 }
+
+
 /* Header **/
 header{
- padding-left: 12px;
- padding-top: 30px;
- padding-bottom: 30px;
- border-bottom: 3px solid aqua;
- background: blue;
- background-size: cover;
- color: white;
- border-top-left-radius: 12px;
- border-top-right-radius: 12px;
+  
+background:#000000;
+  color:#ffffff;
+  padding-top:30px;
+  min-height:70px;
+  border-bottom:red 3px solid;
 }
-nav {
-    font-size: 20px;
-    text-align: center;
-    padding-left: 500px;
-    margin-top: -50px;
+
+header a{
+  color:yellow ;
+  text-decoration:inherit;
+  text-transform:uppercase ;
+  font-size:auto;
 }
- li{
-    display: inline-block;
-    width: 130px;
+
+header li{
+  float:right;
+  display: inline-block;
+  padding: 15px;
 }
- ul{
-    list-style: none;
+
+header #branding{
+  float:left;
 }
- a{
-    color: white;
-    text-decoration: none;
+
+header #branding h1{
+  margin: 5px;
+  font-size: 35px;
 }
-a:hover{
-    border-bottom: 2px solid aqua;
-    padding-bottom: 5px;
-    color: aqua;
+
+header nav{
+  float:right;
+  margin-top:18px;
 }
+
+header .highlight, header .current a{
+  color:blueviolet;
+  font-weight: 20px;
+  
+}
+
+header a:hover{
+  color:rgb(12, 12, 12);
+  font-weight:20px;
+}
+
 footer{
-  padding: 20px;
-  text-align: center;
-  background-color: aqua;
-  border-top: 2px solid black ;
-  border-bottom-left-radius: 12px;
-  border-bottom-right-radius: 12px;
-  font-size: 20px;
+  padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#e8491d;
+    text-align: center;
+
 }
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+  width:1525px;
+  margin-bottom:10px;
+  }
+
 
 
 
