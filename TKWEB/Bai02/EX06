@@ -18,7 +18,7 @@ margin-top: -10px;
 
 /* Header **/
 header{
-  background:#000000;
+  background:#a19491;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -59,7 +59,7 @@ header .highlight, header .current a{
 }
 
 header a:hover{
-  color:rgb(12, 12, 12);
+  color:#a19491;
   font-weight:20px;
 }
 
